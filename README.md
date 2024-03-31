@@ -1,6 +1,5 @@
 
-This design of a highly precise apparatus for measuring femtoampere-level currents is now accessible and is welcome to be replicated by other researchers. For those interested in replicating or further researching based on our design, the Fusion 360 design files, offering a detailed visual and structural blueprint, are available at [https://a360.co/3VwhKpZ], facilitating easy adaptation and modifications for related projects.
-
+This design of a highly precise apparatus for measuring femtoampere-level currents is now accessible and is welcome to be replicated by other researchers. For those interested in replicating or further researching based on our design, the Fusion 360 design files, offering a detailed visual and structural blueprint, are available at [https://a360.co/3VwhKpZ], facilitating easy adaptation and modifications for related projects. A bill of materials for the components in this design was as follows:
 ![PCBreal](https://github.com/Helioschiu/PCB-Design/assets/118372561/243ab127-f75a-402b-ab3a-b9abf3a3feda)
 
 Bill of Materials
